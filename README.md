@@ -1,7 +1,7 @@
 # Learning for Robust Combinatorial Optimization: Algorithm and Application
 [Learning for Robust Combinatorial Optimization: Algorithm and Application](https://arxiv.org/abs/2112.10377)
 
-Zhihui Shao, Jianyi Yang, Cong Shen, [Shaolei Ren](https://intra.ece.ucr.edu/~sren/), IEEE International Conference on Computer Communications. (**INFOCOM 2022**)
+Zhihui Shao, Jianyi Yang, Cong Shen, Shaolei Ren, IEEE International Conference on Computer Communications. (**INFOCOM 2022**)
 
 ```BibTex
 @article{
